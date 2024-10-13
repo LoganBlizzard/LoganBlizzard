@@ -7,6 +7,8 @@ C#, Python, Java, Bash, HTML
 ## 🔧 Tools 🔧
 Unity, GitHub, VSCommunity
 
+Feel free to explore all of my projects and thanks for checking out my profile!
+
 <!--
 **LoganBlizzard/LoganBlizzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
