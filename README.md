@@ -1,6 +1,5 @@
 # Hey there! 👋 I'm Logan Blizzard, welcome to my profile!
-
-## ⚡About me⚡
+A little bit about me: I am a sophmore at Grossmont College, planning to transfer to SDSU majoring in Computer Science. The world of computers and programming has fascinated me ever since I was a child when I first layed my hands upon a keyboard and mouse. I started learning Unity and C# before I left junior high, and I continued all throguhout high school up until now as an undergrad, where I have learned lots of other subjects. Long story short, Computer Science to me is not just a career, but my passion where I am always striving to learn and improve.
 
 <!--
 **LoganBlizzard/LoganBlizzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
