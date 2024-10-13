@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Logan Blizzard, welcome to my profile!
 I'm a sophmore at Grossmont College(transfer to SDSU) majoring in Computer Science. The world of computers has fascinated me ever since I was a child when I first layed my hands upon one. My adventure began when I started learning Unity and C# throguhout high school up until now as an undergrad, where I have learned lots of other subjects. Computer Science to me is not just a career, but my passion where I am always striving to learn and improve.
 
-[![C#](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14ZBCSNNYWlTokUoA5XIVbHJ8A3I19DpHVA&s)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 <!--
 **LoganBlizzard/LoganBlizzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
