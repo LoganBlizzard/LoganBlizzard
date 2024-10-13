@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hey there! 👋 I'm Logan Blizzard, welcome to my profile!
+
 
 <!--
 **LoganBlizzard/LoganBlizzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
